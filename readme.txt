@@ -1,4 +1,4 @@
 Git is a distributed version control system
 second modify line
 
-create a new branch 'dev' is quick
+create a new branch 'dev' is quick and simple
